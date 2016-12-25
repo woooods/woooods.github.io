@@ -10,15 +10,9 @@ The Articulate Keyboard is an easy-to-use synonym and antonmy generator for your
 ```markdown
 Providing suggestions in real-time, you will never have an issue articulating yourself again.
 
-Keyboard Extension  
-Chrome Extension
+*Keyboard Extension  
+*Chrome Extension
 
 
 
-**Bold** and _Italic_ and `Code` text
-
-www.linkedin.com/in/harrisonwshipko
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-```
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/1afMN"><a href="//imgur.com/1afMN"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
